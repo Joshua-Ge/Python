@@ -16,7 +16,8 @@ Welcome to my Python projects repository! This is a collection of exercises, too
 - [🧮 calc.py](./calc.py) — Basic calculator.
 - [➗ quadraticCalc.py](./quadraticCalc.py) — Quadratic equation solver.
 - [🌱 SmallGarden.py](./SmallGarden.py) — Garden simulation or related project.
-
+- [A*](./Astar.py) - This is a self developed A* algorith which uses no libaries
+- [Another A*](./Astar_reimplication.py) - This is another A* algorithm but instead of navigating a maze it navigates 
 ---
 
 📌 This repository is a work in progress as part of my journey into Python programming. Feedback and collaboration are welcome!
