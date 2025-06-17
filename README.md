@@ -1,2 +1,22 @@
-# Python
-This is a collection of Python projects I've done
+# 🐍 Python Projects by Joshua-Ge
+
+Welcome to my Python projects repository! This is a collection of exercises, tools, games, and learning experiments designed to explore various aspects of Python programming.
+
+## 📁 Project Directories
+
+- [🎮 Games](./Games) — Interactive games like `cookingGame.py` and others.
+- [📄 PDF Tools](./PDF) — Scripts for manipulating or generating PDFs.
+- [🏛️ Python Classes](./PythonClasses) — Object-oriented programming examples.
+- [🛠️ Random Tools](./RandomTools) — Miscellaneous useful scripts.
+- [📚 Dictionaries](./dictionaries) — Practice exercises using Python dictionaries.
+- [🔁 Loops](./loops) — Examples and exercises using loops.
+
+## 🧮 Standalone Scripts
+
+- [🧮 calc.py](./calc.py) — Basic calculator.
+- [➗ quadraticCalc.py](./quadraticCalc.py) — Quadratic equation solver.
+- [🌱 SmallGarden.py](./SmallGarden.py) — Garden simulation or related project.
+
+---
+
+📌 This repository is a work in progress as part of my journey into Python programming. Feedback and collaboration are welcome!
