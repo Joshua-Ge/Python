@@ -20,7 +20,7 @@ Welcome to my Python projects repository! This is a collection of exercises, too
 - [Another A*](./Astar_reimplication.py) - This is another A* algorithm but instead of navigating a maze it navigates
 - [Breadth First Search](./BFS.py) - This is a self implementation of BFS
 - [Depth First Search](./DFS.py) - This is a self implementation of DFS
-- [3rd Ai model](./Python%20square%20roots/SquarerootGuessing(99.99%).ipynb) - This AI model predicts the square root of any number with an accuracy of 99.99%
+- [3rd Ai model]([./Python%20square%20roots/SquarerootGuessing(99.99%).ipynb](https://github.com/Joshua-Ge/Python/blob/main/Python%20square%20roots/SquarerootGuessing(99.99%25).ipynb)) - This AI model predicts the square root of any number with an accuracy of 99.99%
 ---
 
 📌 This repository is a work in progress as part of my journey into Python programming. Feedback and collaboration are welcome!
